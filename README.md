@@ -20,9 +20,9 @@ The packages and platforms that are covered in this repository include:
 
 To use this repository, simply clone it to your local machine using the following command:
 
-
-      git clone https://github.com/username/quantum-computing-resources.git
-      
+```python
+git clone https://github.com/MonitSharma/Quantum-Codebooks.git
+```
       
       
 
