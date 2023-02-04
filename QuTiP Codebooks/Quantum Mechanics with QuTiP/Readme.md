@@ -50,4 +50,4 @@ If you have any suggestions for improving the materials or if you would like to 
 
 ## Resources
 
-For more information on QuTiP, you can visit the official website: [qutip.org](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTiP_Codebook_1.ipynb
+For more information on QuTiP, you can visit the official website: [qutip.org](https://qutip.org/)
