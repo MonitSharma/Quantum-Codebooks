@@ -25,23 +25,23 @@ Before getting started with the materials, it is recommended that you have a bas
 
 | Codebook | Topic | Resource |
 | --- | --- | --- |
-| Codebook-1 | Introduction to QuTiP | [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTip_Codebook_1.ipynb) |
-| Codebook-2 | Jaynes-Cumming model | [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_2.ipynb) |
-| Codebook-3 | Cavity-Qubit Gates | [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_3.ipynb) |
-| Codebook-4 | Single-Atom Lasing | [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_4.ipynb) |
-| Codebook-5 | Dicke model |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_5.ipynb) |
-| Codebook-6 | Jaynes-Cumming with ultrastrong coupling |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_6.ipynb) |
-| Codebook-7 | Correlation Functions | [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_7.ipynb) |
-| Codebook-8 | Parametric Amplifier |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_8.ipynb)|
-| Codebook-9 | Quantum Monte Carlo Trajectories |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_9.ipynb) |
-| Codebook-10 | iSWAP-gate |   [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_10.ipynb)|
-| Codebook-11 | Adiabatic quantum computing |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_11.ipynb) |
-| Codebook-12 | Squeezed states of harmonic oscillator |   [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_12.ipynb)|
-| Codebook-13 | cQED in the dispersive regime |   [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_13.ipynb) |
-| Codebook-14 | Charge Qubits |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_14.ipynb) |
-| Codebook-15 | Decay into a squeezed vacuum field |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_15.ipynb) |
-| Codebook-16 | Kerr nonlinearities |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_16.ipynb) |
-| Codebook-17 | Gallery of Wigner functions |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/QuTiP_Codebook_17.ipynb) |
+| Codebook-1 | Introduction to QuTiP | [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_1.ipynb) |
+| Codebook-2 | Jaynes-Cumming model | [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_2.ipynb) |
+| Codebook-3 | Cavity-Qubit Gates | [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_3.ipynb) |
+| Codebook-4 | Single-Atom Lasing | [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_4.ipynb) |
+| Codebook-5 | Dicke model |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_5.ipynb) |
+| Codebook-6 | Jaynes-Cumming with ultrastrong coupling |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_6.ipynb) |
+| Codebook-7 | Correlation Functions | [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_7.ipynb) |
+| Codebook-8 | Parametric Amplifier |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_8.ipynb)|
+| Codebook-9 | Quantum Monte Carlo Trajectories |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_9.ipynb) |
+| Codebook-10 | iSWAP-gate |   [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_10.ipynb)|
+| Codebook-11 | Adiabatic quantum computing |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_11.ipynb) |
+| Codebook-12 | Squeezed states of harmonic oscillator |   [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_12.ipynb)|
+| Codebook-13 | cQED in the dispersive regime |   [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_13.ipynb) |
+| Codebook-14 | Charge Qubits |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_14.ipynb) |
+| Codebook-15 | Decay into a squeezed vacuum field |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_15.ipynb) |
+| Codebook-16 | Kerr nonlinearities |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_16.ipynb) |
+| Codebook-17 | Gallery of Wigner functions |  [Google Colab](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_17.ipynb) |
 
 
 ## Contributions
@@ -50,4 +50,4 @@ If you have any suggestions for improving the materials or if you would like to 
 
 ## Resources
 
-For more information on QuTiP, you can visit the official website: [qutip.org](https://qutip.org)
+For more information on QuTiP, you can visit the official website: [qutip.org](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Quantum%20Mechanics%20with%20QuTiP/QuTip_Codebook_1.ipynb
