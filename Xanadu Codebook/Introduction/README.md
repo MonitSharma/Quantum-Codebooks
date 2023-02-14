@@ -7,20 +7,20 @@ This folder contains solutions to the introductory module of the Xanadu Quantum 
 | Serial Number | Title | Link |
 | --- | --- | --- |
 | 1 | All about Qubits | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I1.ipynb) |
-| 2 | Quantum Circuits | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I2.ipynb) |
-| 3 | Unitary Matrices | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I3.ipynb) |
-| 4 | X and H | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I4.ipynb) |
-| 5 | It's just a Phase | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I5.ipynb) |
-| 6 | From a different angle | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I6.ipynb) |
-| 7 | Universal gate sets | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I7.ipynb) |
-| 8 | Prepare yourself | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I8.ipynb) |
-| 9 | Measurements | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I9.ipynb) |
-| 10 | What did you expect? | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I10.ipynb) |
-| 11 | Multi-Qubit Systems | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I11.ipynb) |
-| 12 | All tied up | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I12.ipynb) |
-| 13 | We've got it under control | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I13.ipynb) |
-| 14 | Multi-qubit gate challenge | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I14.ipynb) |
-| 15 | Quantum Teleportation | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_CodeBook_I15.ipynb) |
+| 2 | Quantum Circuits | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I2.ipynb) |
+| 3 | Unitary Matrices | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I3.ipynb) |
+| 4 | X and H | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I4.ipynb) |
+| 5 | It's just a Phase | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I5.ipynb) |
+| 6 | From a different angle | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I6.ipynb) |
+| 7 | Universal gate sets | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I7.ipynb) |
+| 8 | Prepare yourself | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I8.ipynb) |
+| 9 | Measurements | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I9.ipynb) |
+| 10 | What did you expect? | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I10.ipynb) |
+| 11 | Multi-Qubit Systems | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I11.ipynb) |
+| 12 | All tied up | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I12.ipynb) |
+| 13 | We've got it under control | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I13.ipynb) |
+| 14 | Multi-qubit gate challenge | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I14.ipynb) |
+| 15 | Quantum Teleportation | [Codebook](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Codebook/Introduction/Quantum_Codebook_I15.ipynb) |
 
 ## Getting Started
 
