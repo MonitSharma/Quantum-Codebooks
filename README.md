@@ -16,7 +16,7 @@ The packages and platforms that are covered in this repository include:
 
 - [Cirq](https://github.com/quantumlib/Cirq): Cirq is an open-source framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits. It is designed to be easy to use, with a simple and intuitive syntax, and it is compatible with a wide range of quantum hardware platforms. With Cirq, users can easily create and run quantum circuits on real quantum hardware and analyze the results.
 
-## Getting Started
+# Getting Started
 
 To use this repository, simply clone it to your local machine using the following command:
 
@@ -26,10 +26,45 @@ git clone https://github.com/MonitSharma/Quantum-Codebooks.git
       
       
 
-## Contents
+# Contents
 
 The repository is organized by resource, with each resource having its own subdirectory containing the solutions and walkthroughs. The subdirectories are named after the specific quantum computing package or platform and contain detailed explanations and examples of how to use it. The repository will be regularly updated with new solutions and walkthroughs as new quantum computing packages and platforms are released.
 
+
+## Xanadu Quantum Codebook
+| Codebook Number | Title |  Medium Article | Code |
+| --- | --- | --- | ------ |
+| 1 | Enter Problem Statement here |   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) | [![Github](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub&logoColor=white)]() |
+| 2 | Enter Problem Statement here |   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) | [![Github](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub&logoColor=white)]() |
+| 3 | Enter Problem Statement here |   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) | [![Github](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub&logoColor=white)]() |
+
+
+
+
+------------------
+
+
+
+## Qiskit Textbook
+| Codebook Number | Title |  Medium Article | Code |
+| --- | --- | --- | ------ |
+| 1 | Enter Problem Statement here |   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) | [![Github](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub&logoColor=white)]() |
+
+
+
+
+
+---------
+
+
+## QuTiP Textbook
+| Codebook Number | Title |  Medium Article | Code |
+| --- | --- | --- | ------ |
+| 1 | Enter Problem Statement here |   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) | [![Github](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub&logoColor=white)]() |
+
+
+
+------------
 
 ## Contributing
 
