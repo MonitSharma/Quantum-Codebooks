@@ -31,9 +31,47 @@ git clone https://github.com/MonitSharma/Quantum-Codebooks.git
 The repository is organized by resource, with each resource having its own subdirectory containing the solutions and walkthroughs. The subdirectories are named after the specific quantum computing package or platform and contain detailed explanations and examples of how to use it. The repository will be regularly updated with new solutions and walkthroughs as new quantum computing packages and platforms are released.
 
 
+## Xanadu Codebook
+
+   
 | Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
 | ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
 | 1             | Scalars, vectors, matrices and tensors    | Introduction to basic concepts in linear algebra    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+
+
+
+
+
+
+
+## Qiskit Textbook
+
+   
+| Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
+| ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | Scalars, vectors, matrices and tensors    | Introduction to basic concepts in linear algebra    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+
+
+
+
+
+
+
+
+
+
+
+## QuTiP Codebook
+
+   
+| Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
+| ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | Scalars, vectors, matrices and tensors    | Introduction to basic concepts in linear algebra    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+
+
+
+
+
 
 
 
