@@ -45,25 +45,7 @@ The repository is organized by resource, with each resource having its own subdi
 
 
 
-## Qiskit Textbook
-| Codebook Number | Title |  Medium Article | 
-|-- | ------------------------------------- | ----------- | 
-| 1 | Enter Problem Statement here              |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4)        |
-| 2 | Enter Problem Statement here |   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) |
-| 3 | Enter Problem Statement here |   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) |
 
-
-
-
-
-
-
-## QuTiP Textbook
-| Codebook Number | Title |  Medium Article | 
-|-- | ------------------------------------- | ----------- | 
-| 1 | Enter Problem Statement here              |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4)        |
-| 2 | Enter Problem Statement here |   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) |
-| 3 | Enter Problem Statement here |   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/daily-leetcode-problems-problem-24-swap-nodes-in-pairs-51aa79e974e4) |
 
 
 
