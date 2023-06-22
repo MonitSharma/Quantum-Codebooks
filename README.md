@@ -33,10 +33,48 @@ The repository is organized by resource, with each resource having its own subdi
 
 ## Xanadu Codebook
 
+### Introduction
    
 | Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
 | ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
-| 1             | Scalars, vectors, matrices and tensors    | Introduction to basic concepts in linear algebra    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 1             | All About Qubits    | Introduction to basic concepts of QC    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_CodeBook_I1.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 2             | Quantum Circuits    | How to build simple Quantum Circuits?   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I2.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 3             | Unitary Matrix   | What mean for a matrix to be unitary?   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I3.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 4             | X and H  | How an operation works?   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I4.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 5             | It's just a Phase  | How can be change the amplitudes?   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I5.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 6            | From a different angle  | Dimensional space?   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I6.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 7            | Universal gate sets  | Gate set universal for quantum computing?   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I7.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 8            | Prepare Yourself  | Summing up!   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I8.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 9            | Measurements  | What is Projective measurement?   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I9.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 10            | What did you expect? | What is an Observable?  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I10.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 11            | Multi-Qubit Systems | The Tensor Product  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I11.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 12            | All tied up | Mathematics of Entangled states  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I12.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 13            | We've got it under control | Controlled -Z and SWAP  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I13.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 14            | Multi-qubit gate challenge | Summing up | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I14.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 15            | Quantum Teleportation | What is quantum teleportation? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](hhttps://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Introduction/Quantum_Codebook_I15.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
