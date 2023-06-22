@@ -4,7 +4,7 @@ Welcome to this repository, which contains comprehensive solutions and walkthrou
 
 The packages and platforms that are covered in this repository include:
 
-- [Qiskit](https://qiskit.org/): Qiskit is an open-source quantum computing framework that allows users to create, manipulate, and execute quantum programs. It is built on top of the popular open-source libraries such as NumPy and Scipy, making it easy for users to get started with quantum computing. With Qiskit, users can build and run quantum programs on a local simulator or on real quantum hardware.
+- [Qiskit](https://qiskit.org/): Qiskit is an open-source quantum computing framework that allows users to create, manipulate, and execute quantum programs. It is built on top of popular open-source libraries such as NumPy and Scipy, making it easy for users to get started with quantum computing. With Qiskit, users can build and run quantum programs on a local simulator or on real quantum hardware.
 
 - [Xanadu](https://xanadu.ai/): Xanadu is a leading company in the field of quantum computing, providing a full-stack platform for quantum software development. Their platform, "Strawberry Fields" is a powerful tool for creating and running quantum algorithms. It provides a high-level interface for working with quantum systems, making it easy to create and run quantum circuits on real quantum hardware.
 
