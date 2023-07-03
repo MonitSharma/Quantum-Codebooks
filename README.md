@@ -1,3 +1,5 @@
+[←←Back to Homepage](https://monitsharma.github.io/)
+
 # Quantum Computing Resources
 
 Welcome to this repository, which contains comprehensive solutions and walkthroughs for various popular quantum computing packages and platforms. Quantum computing is a rapidly growing field that has the potential to revolutionize a wide range of industries, from finance and healthcare to logistics and machine learning. 
