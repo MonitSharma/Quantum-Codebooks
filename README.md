@@ -74,7 +74,7 @@ The repository is organized by resource, with each resource having its own subdi
 
 
 
-
+----
 
 
 
@@ -87,15 +87,123 @@ The repository is organized by resource, with each resource having its own subdi
 ## Qiskit Textbook
 
    
-| Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
-| ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
-| 1             | Scalars, vectors, matrices and tensors    | Introduction to basic concepts in linear algebra    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+### Prerequisites
+
+Learn about the software used to write the Qiskit (Python and Jupyter Notebooks), and set up your environment to reproduce the experiments.
+
+| Serial Number | Title                                     | Links     | Medium                                                                                |
+| ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | Checking versions and installing  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Installing%20Qiskit%20and%20Dependancies.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-the-beginning-a177b588df88) |
+| 2             | Complex Arithmetic    |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/ComplexArithmetic.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-complex-arithmetic-453d5f15638b) |
+| 3             |  A very basic intro to Linear Algebra | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Linear%20Algebra%20Background.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-linear-algebra-501587c3297d) |
+
+
+
+### Quantum States and Qubits
+
+This chapter introduces the computing concepts that we'll explore in later chapters, then introduces basic quantum concepts.
+
+
+
+
+
+| Serial Number | Title                                     | Links     | Medium                                                                                |
+| ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | Atoms of Computation  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Atoms_of_Computation.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-atoms-of-computation-463eb0a038aa) |
+| 2             | Representing Qubit States | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Represenitng_Qubit_States.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-representing-qubit-state-aed033b612d0) |
+| 3             | Single Qubit Gates | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Single_Qubit_Gates.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-single-qubit-gates-17a5a419ed7c) |
+
+
+
+### Multiple Qubits and Entanglement
+
+With the basics down, this chapter explores the consequences of these new quantum effects, and sets us up with tools to understand quantum algorithms.
+
+
+
+
+
+| Serial Number | Title                                     | Links     | Medium                                                                                |
+| ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             |Multiple Qubits and Entanglement  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Multiple_Qubits_and_Entanglement.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-multiple-qubits-and-entanglement-39b8ffa9b95d) |
+| 2             |Phase Kickback  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Phase_Kickback.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 
 
 
 
 
 
+
+
+### Quantum Protocols and Quantum Algorithms
+
+In this chapter, we use quantum effects to build powerful algorithms, starting from simple proof-of-concept algorithms, through to Shor's famous factoring algorithm (and beyond).
+
+
+
+
+
+| Serial Number | Title                                     | Links     | Medium                                                                                |
+| ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | TBA  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Atoms_of_Computation.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+
+
+
+### Investigating Quantum Hardware Using Microwave Pulses
+
+In this chapter, we get a level closer to the real quantum machines. Learn about the physics of these devices, and how to program them at the level of microwave pulses.
+
+
+
+
+
+| Serial Number | Title                                     | Links     | Medium                                                                                |
+| ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | TBA  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Atoms_of_Computation.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+
+
+
+
+
+### Quantum Algorithms for Applications
+
+
+If algorithms are the solution, then what is the problem? In this chapter, we look at how we can take general algorithms and apply them to more specific situations.
+
+
+
+
+
+| Serial Number | Title                                     | Links     | Medium                                                                                |
+| ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | TBA  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Atoms_of_Computation.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+
+
+
+
+### Investigating Quantum Hardware Using Quantum Circuits
+
+All circuit-based quantum devices share some similar characteristics and challenges. In this chapter, we explore how quantum circuits perform on modern quantum computers, and ways to improve performance.
+
+
+
+
+| Serial Number | Title                                     | Links     | Medium                                                                                |
+| ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | TBA  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Computing-with-Qiskit-and-IBMQ/blob/main/Atoms_of_Computation.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+
+
+
+
+
+
+
+
+
+
+
+
+----
 
 
 
