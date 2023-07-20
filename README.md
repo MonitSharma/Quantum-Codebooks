@@ -6,27 +6,10 @@ Welcome to this repository, which contains comprehensive solutions and walkthrou
 
 The packages and platforms that are covered in this repository include:
 
-- [Qiskit](https://qiskit.org/): Qiskit is an open-source quantum computing framework that allows users to create, manipulate, and execute quantum programs. It is built on top of popular open-source libraries such as NumPy and Scipy, making it easy for users to get started with quantum computing. With Qiskit, users can build and run quantum programs on a local simulator or on real quantum hardware.
-
-- [Xanadu](https://xanadu.ai/): Xanadu is a leading company in the field of quantum computing, providing a full-stack platform for quantum software development. Their platform, "Strawberry Fields" is a powerful tool for creating and running quantum algorithms. It provides a high-level interface for working with quantum systems, making it easy to create and run quantum circuits on real quantum hardware.
-
-- [Microsoft Q#](https://docs.microsoft.com/en-us/quantum/language/): Microsoft Q# is a domain-specific programming language used for expressing quantum algorithms. It is designed to be used in conjunction with the Microsoft Quantum Development Kit, a set of tools that allows developers to create, test, and run quantum programs on a local machine or in the cloud. Q# is designed to be easy to learn for developers with experience in classical programming, and it provides a wide range of libraries and functionality for working with quantum systems.
 
 
 
-- [QuTiP](http://qutip.org/): QuTiP is an open-source quantum mechanics and optics framework that allows users to simulate the dynamics of open quantum systems. It is built on top of the popular Python numerical library NumPy, and provides a high-level interface for working with quantum systems. QuTiP is particularly useful for simulating the dynamics of open quantum systems and for analyzing the results of quantum experiments.
 
-- [Cirq](https://github.com/quantumlib/Cirq): Cirq is an open-source framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits. It is designed to be easy to use, with a simple and intuitive syntax, and it is compatible with a wide range of quantum hardware platforms. With Cirq, users can easily create and run quantum circuits on real quantum hardware and analyze the results.
-
-# Getting Started
-
-To use this repository, simply clone it to your local machine using the following command:
-
-```python
-git clone https://github.com/MonitSharma/Quantum-Codebooks.git
-```
-      
-      
 
 # Contents
 
@@ -34,6 +17,8 @@ The repository is organized by resource, with each resource having its own subdi
 
 
 ## Xanadu Codebook
+
+- [Xanadu](https://xanadu.ai/): Xanadu is a leading company in the field of quantum computing, providing a full-stack platform for quantum software development. Their platform, "Strawberry Fields" is a powerful tool for creating and running quantum algorithms. It provides a high-level interface for working with quantum systems, making it easy to create and run quantum circuits on real quantum hardware.
 
 ### Introduction
    
@@ -74,9 +59,6 @@ The repository is organized by resource, with each resource having its own subdi
 
 
 
-----
-
-
 
 
 
@@ -85,6 +67,8 @@ The repository is organized by resource, with each resource having its own subdi
 
 
 ## Qiskit Textbook
+
+- [Qiskit](https://qiskit.org/): Qiskit is an open-source quantum computing framework that allows users to create, manipulate, and execute quantum programs. It is built on top of popular open-source libraries such as NumPy and Scipy, making it easy for users to get started with quantum computing. With Qiskit, users can build and run quantum programs on a local simulator or on real quantum hardware.
 
    
 ### Prerequisites
@@ -203,13 +187,16 @@ All circuit-based quantum devices share some similar characteristics and challen
 
 
 
-----
+
 
 
 
 
 
 ## QuTiP Codebook
+
+
+- [QuTiP](http://qutip.org/): QuTiP is an open-source quantum mechanics and optics framework that allows users to simulate the dynamics of open quantum systems. It is built on top of the popular Python numerical library NumPy, and provides a high-level interface for working with quantum systems. QuTiP is particularly useful for simulating the dynamics of open quantum systems and for analyzing the results of quantum experiments.
 
    
 | Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
@@ -220,13 +207,44 @@ All circuit-based quantum devices share some similar characteristics and challen
 
 
 
+## Google Quantum AI
+
+
+
+
+- [Cirq](https://github.com/quantumlib/Cirq): Cirq is an open-source framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits. It is designed to be easy to use, with a simple and intuitive syntax, and it is compatible with a wide range of quantum hardware platforms. With Cirq, users can easily create and run quantum circuits on real quantum hardware and analyze the results.
+
+
+| Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
+| ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | Scalars, vectors, matrices and tensors    | Introduction to basic concepts in linear algebra    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 
 
 
 
 
+## Microsoft Q#
+
+- [Microsoft Q#](https://docs.microsoft.com/en-us/quantum/language/): Microsoft Q# is a domain-specific programming language used for expressing quantum algorithms. It is designed to be used in conjunction with the Microsoft Quantum Development Kit, a set of tools that allows developers to create, test, and run quantum programs on a local machine or in the cloud. Q# is designed to be easy to learn for developers with experience in classical programming, and it provides a wide range of libraries and functionality for working with quantum systems.
 
 
+| Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
+| ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | Scalars, vectors, matrices and tensors    | Introduction to basic concepts in linear algebra    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+
+
+
+
+
+# Getting Started
+
+To use this repository, simply clone it to your local machine using the following command:
+
+```python
+git clone https://github.com/MonitSharma/Quantum-Codebooks.git
+```
+      
+      
 
 
 
