@@ -7,7 +7,12 @@ Welcome to this repository, which contains comprehensive solutions and walkthrou
 The packages and platforms that are covered in this repository include:
 
 
-
+# Table
+- [Xanadu Codebook](#xanadu-codebook)
+- [Qiskit Textbook](#qiskit-textbook)
+- [QuTip Codebook](#qutip-codebook)
+- [Google Cirq](#google-cirq)
+- [Microsoft Q#](#microsoft-q)
 
 
 
@@ -207,7 +212,7 @@ All circuit-based quantum devices share some similar characteristics and challen
 
 
 
-## Google Quantum AI
+## Google Cirq
 
 
 
