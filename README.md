@@ -50,7 +50,16 @@ The repository is organized by resource, with each resource having its own subdi
 
 
 
-
+### Algorithms
+   
+| Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
+| ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
+| 1             | No exponential Magic   | Quantum Superposition does not automatically imply exponential speedups    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Algorithms/Quantum_Codebook_A1.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 2             | The Magic 8-ball   | Role of oracles in quantum algorithms    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Algorithms/Quantum_Codebook_A2.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 3             | Pair Programming   | How the oracle can be applied    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Algorithms/Quantum_Codebook_A3.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 4             | Making and breaking promises   | How global information and promises are useful?    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Algorithms/Quantum_Codebook_A4.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 5             | Hadamard Transform   | Define the Hadamard transform.  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Algorithms/Quantum_Codebook_A5.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 6             | Deutsch Josza  | Implement the Deutsch-Jozsa algorithm.  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Algorithms/Quantum_Codebook_A6.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 
 
 
@@ -116,7 +125,7 @@ With the basics down, this chapter explores the consequences of these new quantu
 | ------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
 | 1             |Multiple Qubits and Entanglement  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Multiple_Qubits_and_Entanglement.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/learn-quantum-computing-with-qiskit-multiple-qubits-and-entanglement-39b8ffa9b95d) |
 | 2             |Phase Kickback  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Phase_Kickback.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
-
+| 3            |Basic Circuit Identities  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Computing-with-Qiskit/blob/main/Basic_Circuit_Identities.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 
 
 
