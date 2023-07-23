@@ -212,10 +212,12 @@ All circuit-based quantum devices share some similar characteristics and challen
 
 - [QuTiP](http://qutip.org/): QuTiP is an open-source quantum mechanics and optics framework that allows users to simulate the dynamics of open quantum systems. It is built on top of the popular Python numerical library NumPy, and provides a high-level interface for working with quantum systems. QuTiP is particularly useful for simulating the dynamics of open quantum systems and for analyzing the results of quantum experiments.
 
+
+### Visualizations
    
 | Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
 | ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
-| 1             | Scalars, vectors, matrices and tensors    | Introduction to basic concepts in linear algebra    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Numerical-Linear-Algebra/blob/main/Basic%20Numerical%20Linear%20Algebra/1-Scalars%2C_Vectors%2C_Matrices_and_Tensors.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| 1             | Bloch Sphere Animation    | Introduction to basic concepts in linear algebra    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/QuTiP%20Codebooks/Visualizations/Bloch_Sphere_Animation.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 
 
 
