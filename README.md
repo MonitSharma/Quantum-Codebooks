@@ -26,6 +26,8 @@ The repository is organized by resource, with each resource having its own subdi
 - [Xanadu](https://xanadu.ai/): Xanadu is a leading company in the field of quantum computing, providing a full-stack platform for quantum software development. Their platform, "Strawberry Fields" is a powerful tool for creating and running quantum algorithms. It provides a high-level interface for working with quantum systems, making it easy to create and run quantum circuits on real quantum hardware.
 
 ### Introduction
+
+Introduction to quantum computing and PennyLane
    
 | Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
 | ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
@@ -51,6 +53,8 @@ The repository is organized by resource, with each resource having its own subdi
 
 
 ### Algorithms
+
+Introduction to quantum Algorithms
    
 | Serial Number | Title                                     | Description                                         | Links     | Medium                                                                                |
 | ------------- | ----------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------- |------------------------------------|
@@ -64,9 +68,35 @@ The repository is organized by resource, with each resource having its own subdi
 
 
 
+### Fourier
+
+The Quantum Fourier Transform
 
 
 
+
+
+
+### Quantum Phase Estimation
+
+Introduction to quantum phase estimation
+
+
+
+
+
+### Shor's algorithm
+
+Introduction to quantum Algorithms
+
+
+### G, Grover's algorithm
+
+Introduction to quantum Algorithms
+
+### H, Hamiltonian simulation
+
+Introduction to quantum Algorithms
 
 
 
