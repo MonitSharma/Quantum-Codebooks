@@ -6,6 +6,9 @@ Welcome to this repository, which contains comprehensive solutions and walkthrou
 
 The packages and platforms that are covered in this repository include:
 
+( medium articles will be added soon) 
+
+
 
 # Table
 - [Xanadu Codebook](#xanadu-codebook)
