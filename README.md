@@ -145,7 +145,14 @@ Fundamentally, quantum computing is different from classical computing because o
 | H9             | Qubitization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Xanadu-Codebook-Solutions/blob/main/Hamiltonians/Quantum_Codebook_H9.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 
 
+### E, Error Correction
 
+
+| Serial Number | Title                                     |  Links     | Medium                                                                                |
+| ------------- | ----------------------------------------- |  ----------------------------------------------------------------------------------------- |------------------------------------|
+| E1             | Got Errors? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Quantum%20Codebook/Error/Quantum_Codebook_E1.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| E2             | No Flip Flopping Allowed | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Quantum%20Codebook/Error/Quantum_Codebook_E2.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
+| E3             | Are you Shor this works?  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Quantum-Codebooks/blob/main/Xanadu%20Quantum%20Codebook/Error/Quantum_Codebook_E3.ipynb) |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@_monitsharma/computational-linear-algebra-scalars-vectors-matrices-and-tensors-50e392df9ccc) |
 
 
 
